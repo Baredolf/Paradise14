@@ -1,4 +1,4 @@
-﻿# Only one of those rulesets will appear on the server at any given time.
+# Only one of those rulesets will appear on the server at any given time.
 # They all have a priority of 10 so they appear 2nd by default (after priority 0 and before priority 20)
 
 - type: guideEntry
@@ -8,7 +8,6 @@
   priority: 10
   text: "/ServerInfo/Guidebook/ServerRules/ParadiseRules.xml"
   children:
-    - Rule0
     - Rule1
     - Rule2
     - Rule3
@@ -16,13 +15,12 @@
     - Rule5
     - Rule6
     - Rule7
-
-- type: guideEntry
-  id: ExtendedRules
-  name: guide-entry-rules-extended
-  ruleEntry: true
-  priority: 10
-  text: "/ServerInfo/Guidebook/ServerRules/ParadiseRulesExtended.xml"
+    - Rule8
+    - Rule9
+    - Rule10
+    - Rule11
+    - RuleB
+    - RuleE
 
 - type: guideEntry
   id: ParadiseBans
@@ -30,12 +28,6 @@
   ruleEntry: true
   priority: 10
   text: "/ServerInfo/Guidebook/ServerRules/ParadiseBans.xml"
-
-- type: guideEntry
-  id: Rule0
-  name: guide-entry-rules-0
-  ruleEntry: true
-  text: "/ServerInfo/Guidebook/ServerRules/Rules/Rule0.xml"
 
 - type: guideEntry
   id: Rule1
@@ -78,3 +70,39 @@
   name: guide-entry-rules-7
   ruleEntry: true
   text: "/ServerInfo/Guidebook/ServerRules/Rules/Rule7.xml"
+
+- type: guideEntry
+  id: Rule8
+  name: guide-entry-rules-8
+  ruleEntry: true
+  text: "/ServerInfo/Guidebook/ServerRules/Rules/Rule8.xml"
+
+- type: guideEntry
+  id: Rule9
+  name: guide-entry-rules-9
+  ruleEntry: true
+  text: "/ServerInfo/Guidebook/ServerRules/Rules/Rule9.xml"
+
+- type: guideEntry
+  id: Rule10
+  name: guide-entry-rules-10
+  ruleEntry: true
+  text: "/ServerInfo/Guidebook/ServerRules/Rules/Rule10.xml"
+
+- type: guideEntry
+  id: Rule11
+  name: guide-entry-rules-11
+  ruleEntry: true
+  text: "/ServerInfo/Guidebook/ServerRules/Rules/Rule11.xml"
+
+- type: guideEntry
+  id: RuleB
+  name: guide-entry-rules-bans
+  ruleEntry: true
+  text: "/ServerInfo/Guidebook/ServerRules/Rules/RuleB.xml"
+
+- type: guideEntry
+  id: RuleE
+  name: guide-entry-rules-Escalation
+  ruleEntry: true
+  text: "/ServerInfo/Guidebook/ServerRules/Rules/RuleE.xml"
