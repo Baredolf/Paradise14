@@ -23,13 +23,6 @@
     - RuleE
 
 - type: guideEntry
-  id: ParadiseBans
-  name: guide-entry-rules-bans
-  ruleEntry: true
-  priority: 10
-  text: "/ServerInfo/Guidebook/ServerRules/ParadiseBans.xml"
-
-- type: guideEntry
   id: Rule1
   name: guide-entry-rules-1
   ruleEntry: true
