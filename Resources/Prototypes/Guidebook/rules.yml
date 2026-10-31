@@ -96,6 +96,6 @@
 
 - type: guideEntry
   id: RuleE
-  name: guide-entry-rules-Escalation
+  name: guide-entry-rules-escalation
   ruleEntry: true
   text: "/ServerInfo/Guidebook/ServerRules/Rules/RuleE.xml"
