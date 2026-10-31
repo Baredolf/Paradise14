@@ -8,6 +8,7 @@
   priority: 10
   text: "/ServerInfo/Guidebook/ServerRules/ParadiseRules.xml"
   children:
+    - Rule0
     - Rule1
     - Rule2
     - Rule3
@@ -18,9 +19,14 @@
     - Rule8
     - Rule9
     - Rule10
-    - Rule11
     - RuleB
     - RuleE
+
+- type: guideEntry
+  id: Rule0
+  name: guide-entry-rules-0
+  ruleEntry: true
+  text: "/ServerInfo/Guidebook/ServerRules/Rules/Rule0.xml"
 
 - type: guideEntry
   id: Rule1
@@ -81,12 +87,6 @@
   name: guide-entry-rules-10
   ruleEntry: true
   text: "/ServerInfo/Guidebook/ServerRules/Rules/Rule10.xml"
-
-- type: guideEntry
-  id: Rule11
-  name: guide-entry-rules-11
-  ruleEntry: true
-  text: "/ServerInfo/Guidebook/ServerRules/Rules/Rule11.xml"
 
 - type: guideEntry
   id: RuleB

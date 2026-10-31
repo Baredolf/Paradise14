@@ -146,6 +146,7 @@ guide-entry-wizard = Wizard
 guide-entry-xenoborgs = Xenoborgs
 
 guide-entry-rules = Server Rules
+guide-entry-rules-0 = Rule 0
 guide-entry-rules-1 = Rule 1
 guide-entry-rules-2 = Rule 2
 guide-entry-rules-3 = Rule 3
@@ -156,7 +157,6 @@ guide-entry-rules-7 = Rule 7
 guide-entry-rules-8 = Rule 8
 guide-entry-rules-9 = Rule 9
 guide-entry-rules-10 = Rule 10
-guide-entry-rules-11 = Rule 11
 guide-entry-rules-bans = Ban Appeals
 guide-entry-rules-escalation = Ban Escalation
 guide-entry-rules-space-law = Space Law

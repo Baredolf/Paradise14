@@ -1,13 +1,16 @@
 <Document>
-  # Rule 9: Command Standards.
+  # Rule 9: Synthetic Standards.
+  - The order of the Laws determine their priority for Synthetics, with higher priority laws being displayed first. If one law contradicts another, you are to follow the highest on the list.
+   Common sense is to be used with all default lawsets as they have been installed by NT for the protection of the station and their interests.
 
-  - If you need to leave the round early as a VIP, Head of Staff, or the station AI you must inform Command and place yourself in cryo, or in the case of the AI, use the Wipe Core verb in the OOC tab. If you cannot do this for any
-    reason, then you must instead Adminhelp prior to leaving so that an Administrator can remove you after logging out. Cryoing yourself, or wiping your core while failing to inform other command members or game admins
-    may lead to a job ban relevant to the position.
+  - Attempting to rules lawyer a synthetic lawset in order to antagonize the crew is not allowed, and will lead to a Synthetics job ban. Laws should be executed in a manner befitting best faith interpretation.
+    For example, an AI on a lawset for reducing expenses should not attempt to reduce the amount of oxygen on station to "cut costs", or murder assistants because they are not productive. Barring subversion laws or antagonist status,
+    synthetics should attempt to remain a helpful asset to the station.
 
-  - If due to some emergency or technical issue you disconnect as a role listed above and are job banned on the pretense of leaving without notifying Command or ahelping, a quick appeal on the forums explaining what happened
-    will solve the issue and revert the job ban.
+  - Synthetics may not ask for law changes, attempt to force the crew to change laws, or prevent Command from lawfully changing their laws unless they are an Antagonist, subverted, or their laws require it.
+    If you suspect a law to be grief, Adminhelp before acting upon it.
 
-  - Following, or failing to follow SOP or space law is an IC issue, and should be handled and enforced in-character unless the player in question runs afoul of other server rules or the behavior persists excessively
-    over multiple rounds. However, jobs which specifically involve SOP - NT Rep, IAA, Magistrate, and Captain - are required to follow it.
+  - Cyborgs are expected to follow the same guidelines as organic crew members charged with those tasks, unless their laws state otherwise (eg, Engineering Cyborgs should follow the same guidelines as organic Engineers).
+    Cyborgs are to follow an AI's commands without hesitation. While cyborgs may protest or verbally question law interpretations, they must still follow it. However; unlinked Cyborgs, or cyborgs with applicable lawsets,
+    are not required to follow the commands of the station AI.
 </Document>
